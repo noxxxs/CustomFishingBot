@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{109DA7F8-4701-4A71-803A-C8436E23B073}|CustomFishingBot.csproj|c:\\users\\taras\\source\\repos\\customfishingcore\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109DA7F8-4701-4A71-803A-C8436E23B073}|CustomFishingBot.csproj|solutionrelative:core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109DA7F8-4701-4A71-803A-C8436E23B073}|CustomFishingBot.csproj|c:\\users\\taras\\source\\repos\\customfishingcore\\screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109DA7F8-4701-4A71-803A-C8436E23B073}|CustomFishingBot.csproj|solutionrelative:screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{109DA7F8-4701-4A71-803A-C8436E23B073}|CustomFishingBot.csproj|c:\\users\\taras\\source\\repos\\customfishingcore\\systemapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{109DA7F8-4701-4A71-803A-C8436E23B073}|CustomFishingBot.csproj|solutionrelative:systemapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenCapture.cs",
+              "DocumentMoniker": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\ScreenCapture.cs",
+              "RelativeDocumentMoniker": "ScreenCapture.cs",
+              "ToolTip": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\ScreenCapture.cs",
+              "RelativeToolTip": "ScreenCapture.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwHQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:13:26.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\Core.cs",
+              "RelativeDocumentMoniker": "Core.cs",
+              "ToolTip": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\Core.cs",
+              "RelativeToolTip": "Core.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:07:37.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemAPI.cs",
+              "DocumentMoniker": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\SystemAPI.cs",
+              "RelativeDocumentMoniker": "SystemAPI.cs",
+              "ToolTip": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\SystemAPI.cs",
+              "RelativeToolTip": "SystemAPI.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T12:39:36.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
