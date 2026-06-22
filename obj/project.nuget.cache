@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMxnwpl6lf4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taras\\source\\repos\\CustomFishingCore\\CustomFishingBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taras\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.9\\microsoft.win32.systemevents.10.0.9.nupkg.sha512",
+    "C:\\Users\\taras\\.nuget\\packages\\opencvsharp4\\4.13.0.20260602\\opencvsharp4.4.13.0.20260602.nupkg.sha512",
+    "C:\\Users\\taras\\.nuget\\packages\\opencvsharp4.extensions\\4.13.0.20260602\\opencvsharp4.extensions.4.13.0.20260602.nupkg.sha512",
+    "C:\\Users\\taras\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260602\\opencvsharp4.runtime.win.4.13.0.20260602.nupkg.sha512",
+    "C:\\Users\\taras\\.nuget\\packages\\system.drawing.common\\10.0.9\\system.drawing.common.10.0.9.nupkg.sha512",
+    "C:\\Users\\taras\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
